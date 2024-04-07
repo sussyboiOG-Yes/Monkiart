@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 07 Apr 2024 15:51:53 at https://watchdocumentaries.com/monkey-mart-game/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://watchdocumentaries.com/monkey-mart-game/ -O1 "C:\My Web Sites\MM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:11	Error: 	"Not Found" (404) at link https://watchdocumentaries.com/choice.js?tag_version=V3 (from https://watchdocumentaries.com/monkey-mart-game/)
+15:52:11	Error: 	"Not Found" (404) at link https://watchdocumentaries.com/wp-content/themes/watchdocs/css/malihu/mCSB_buttons.png (from https://watchdocumentaries.com/wp-content/cache/breeze-minification/css/breeze_6af7da37740bca10632b4d6324db97b2.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 seconds : 68 links scanned, 65 files written (2453296 bytes overall) [664534 bytes received at 36918 bytes/sec], 2514355 bytes transferred using HTTP compression in 58 files, ratio 20%, 14.2 requests per connection
+(2 errors, 0 warnings, 0 messages)
